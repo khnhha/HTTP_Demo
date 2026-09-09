@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@keyframes travelRight {
+  0% {
+    left: 0%;
+    opacity: 0.2;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    left: 85%;
+    opacity: 0.2;
+  }
+}
+
+@keyframes travelLeft {
+  0% {
+    right: 0%;
+    left: auto;
+    opacity: 0.2;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    right: 85%;
+    left: auto;
+    opacity: 0.2;
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Mô Phỏng Giao Thức HTTP trong IoT",
+  "description": "Ứng dụng trực quan mô phỏng chi tiết giao thức HTTP và quy trình xác thực (Authentication) cho lập trình vi điều khiển và thiết bị IoT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
